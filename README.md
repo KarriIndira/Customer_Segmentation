@@ -15,7 +15,8 @@ libraries needs to be installed-
 * sklearn
 * matplotlib
 ## Data Preparation
-Before using this model ,you will need to prepare the dataset is clean and has no missing values.yYou should remove any outliers or errors in the data.
+Before using this model ,you will need to prepare the dataset is clean and has no missing values.
+You should remove any outliers or errors in the data.
 ## Usage
 To use the model,import it into your python scripts and create instance of the 'Customer Segment' class then ,call the fit() method and pass in your dataset.
 ## Output
